@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="QuickafeDataSource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=localhost\sqlexpress;Initial Catalog=Quickafe</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>337b8fd0-4a6f-4bbc-85df-7578f741008f</DataSourceID>
+</RptDataSource>

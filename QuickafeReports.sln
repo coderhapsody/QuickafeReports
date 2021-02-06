@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "QuickafeReports", "QuickafeReports\QuickafeReports.rptproj", "{27A4CFA7-B03A-4856-87A2-AC781092FC09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.Debug|Default.ActiveCfg = Debug
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.Debug|Default.Build.0 = Debug
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.Debug|Default.Deploy.0 = Debug
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.DebugLocal|Default.Build.0 = DebugLocal
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.Release|Default.ActiveCfg = Release
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.Release|Default.Build.0 = Release
+		{27A4CFA7-B03A-4856-87A2-AC781092FC09}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
